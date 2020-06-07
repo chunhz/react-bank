@@ -66,7 +66,7 @@ handleCredit = (amount) => {
     return (
         <Router>
           <Switch>
-            <Route exact path = "/" render={HomeComponent}/>
+            <Route exact path = "/Home" render={HomeComponent}/>
             <Route exact path = "/UserProfile" render ={UserProfileComponent} />
             <Route exact path = "/Login" render = {LogInComponent}/>
             <Route exact path = "/Debits" render = {DebitComponent}/>

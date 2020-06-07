@@ -94,7 +94,7 @@ class Credits extends Component{
         <p></p>
         <a>Today's Date: {this.state.todayDate}</a>
         <p></p>
-        <div><Link to = "/" >Home</Link></div>
+        <div><Link to = "/Home" >Home</Link></div>
         <p></p>
           <p></p>
           <form onSubmit = {this.handleSubmitCredit}>
