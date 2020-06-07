@@ -88,7 +88,7 @@ class Debits extends Component{
           <h1>Debits: </h1>
           <a>Today's Date: {this.state.todayDate}</a>
           <p></p>
-          <div><Link to = "/Home" >Home</Link></div>
+          <div><Link to = "/" >Home</Link></div>
           
           <form onSubmit={this.handleSubmitDebit}>
           <p></p>

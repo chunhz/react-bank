@@ -37,7 +37,7 @@ class LogIn extends Component {
     return (
       <div>
         <h1>Log In</h1>
-        <Link to = "/Home">Home</Link>
+        <Link to = "/">Home</Link>
         <p></p>
         <form onSubmit={this.handleSubmit}>
           <div>
