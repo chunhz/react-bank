@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-bank/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/react-bank/static/js/main.490d8271.chunk.js",
-    "main.js.map": "/react-bank/static/js/main.490d8271.chunk.js.map",
-    "runtime-main.js": "/react-bank/static/js/runtime-main.632d4a43.js",
-    "runtime-main.js.map": "/react-bank/static/js/runtime-main.632d4a43.js.map",
-    "static/js/2.3fe149e0.chunk.js": "/react-bank/static/js/2.3fe149e0.chunk.js",
-    "static/js/2.3fe149e0.chunk.js.map": "/react-bank/static/js/2.3fe149e0.chunk.js.map",
-    "index.html": "/react-bank/index.html",
-    "precache-manifest.0adff614b7aa93686afb1f1f592cf3b3.js": "/react-bank/precache-manifest.0adff614b7aa93686afb1f1f592cf3b3.js",
-    "service-worker.js": "/react-bank/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/react-bank/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.3fe149e0.chunk.js.LICENSE.txt": "/react-bank/static/js/2.3fe149e0.chunk.js.LICENSE.txt"
+    "main.css": "/react-bank/UserProfile/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-bank/UserProfile/static/js/main.79149f9c.chunk.js",
+    "main.js.map": "/react-bank/UserProfile/static/js/main.79149f9c.chunk.js.map",
+    "runtime-main.js": "/react-bank/UserProfile/static/js/runtime-main.a43a829e.js",
+    "runtime-main.js.map": "/react-bank/UserProfile/static/js/runtime-main.a43a829e.js.map",
+    "static/js/2.695536b1.chunk.js": "/react-bank/UserProfile/static/js/2.695536b1.chunk.js",
+    "static/js/2.695536b1.chunk.js.map": "/react-bank/UserProfile/static/js/2.695536b1.chunk.js.map",
+    "index.html": "/react-bank/UserProfile/index.html",
+    "precache-manifest.c2825b40894cad2bc1ab123f7edbb685.js": "/react-bank/UserProfile/precache-manifest.c2825b40894cad2bc1ab123f7edbb685.js",
+    "service-worker.js": "/react-bank/UserProfile/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-bank/UserProfile/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.695536b1.chunk.js.LICENSE.txt": "/react-bank/UserProfile/static/js/2.695536b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.632d4a43.js",
-    "static/js/2.3fe149e0.chunk.js",
+    "static/js/runtime-main.a43a829e.js",
+    "static/js/2.695536b1.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.490d8271.chunk.js"
+    "static/js/main.79149f9c.chunk.js"
   ]
 }
